@@ -84,6 +84,11 @@ echo"Connected succesfully";
                 
             </div>
 
+              
+
+
+            
+
             <div class="form-group">
                 <label for="comments">Your Message:</label>
                 <textarea id="comments" name="comments" rows="4" placeholder="Enter your message here"></textarea>
